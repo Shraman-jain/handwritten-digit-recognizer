@@ -1,0 +1,5 @@
+numpy==1.19.3
+Pillow==8.0.1
+streamlit==0.76.0
+tensorflow-cpu==2.5.0
+pdfplumber==0.5.28
